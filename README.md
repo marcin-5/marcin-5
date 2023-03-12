@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=marcin-5&stroke=%2334455e&top_languages=true&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=marcin-5&stroke=%2334455e&top_languages=true&theme=dark)
 
 <!--
 **marcin-5/marcin-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
