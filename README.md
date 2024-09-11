@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=marcin-5&stroke=%2334455e&top_languages=true&theme=dark) -->
-[![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=marcin-5&theme=dark)]
+![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=marcin-5&theme=dark)
+
+- 🌱 I’m currently learning Vue.js and Nuxt.js
+- 🔭 I’m currently working on my portfolio page using Next.js
 
 <!--
 **marcin-5/marcin-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
