@@ -3,8 +3,8 @@
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=marcin-5&stroke=%2334455e&top_languages=true&theme=dark) -->
 ![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=marcin-5&theme=dark)
 
-- 🌱 I’m currently learning Laravel, Vue.js and Nuxt.js
-- 🔭 I’m currently working on my portfolio page using Next.js
+- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on blog page using Laravel, Vue.js and Inertia.js
 
 <!--
 **marcin-5/marcin-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
